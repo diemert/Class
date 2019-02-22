@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RosterTester",
+            "request": "launch",
+            "mainClass": "app.RosterTester",
+            "projectName": "Class",
+            "console": "integratedTerminal"
+        }
+    ]
+}
